@@ -1,1 +1,17 @@
-h1 { color:#FF0000; }
+h1 { color:#FF0000;
+     font-family: san-serif;
+     text-align: center;
+}
+
+p{
+	margin:auto;
+	padding:1em;
+	font-family: serif;
+	color:#ff99cc;
+	text-align: center;
+}
+
+h2 {color:#43C6DB;
+    font-family: serif;
+    text-align: center;
+}
